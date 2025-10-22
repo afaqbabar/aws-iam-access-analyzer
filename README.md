@@ -582,8 +582,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Cloud Engineer & Product Owner - *Open Telekom Cloud / AWS Compute Services*
 
 - 🌐 GitHub: [@afaqbabar](https://github.com/afaqbabar)
-- ✍️ Medium: [Your Medium Profile](https://medium.com/@afaqbabar)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/afaqbabar)
+- ✍️ Medium: [Medium Profile](https://medium.com/@afaqbabar)
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/afaqbabar)
 
 ---
 
